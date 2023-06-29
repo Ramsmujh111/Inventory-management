@@ -1,0 +1,5 @@
+# start the node js server 
+# establish the mongoose connection 
+# have to create a models which inventry call
+# call the api which allow to call multiple product at same time like arr
+#
